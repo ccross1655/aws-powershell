@@ -19,4 +19,4 @@ Refer to [elb/lab-setup.md](elb/lab-setup.md) for the lab setup for this course.
 #### AWS Networking Deep Dive: Route 53 DNS lab setup
 Refer to [route53/lab-setup.md](route53/lab-setup.md) for the lab setup for this course.
 
-*Baked with love for PowerShell Core!*
+*Baked with love for PowerShell Core!**
